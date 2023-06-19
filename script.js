@@ -39,3 +39,13 @@ function sendEmail(){
     message => alert(message)
     );
 }
+
+
+
+
+      //Dev Details
+      const dev = {
+          devName: 'Balaram Sahu',
+          devRole: 'Frontend Developer',
+          devWorkWith: 'React, Javascript, ECMAScript, Jquery, Html5,'
+        }
